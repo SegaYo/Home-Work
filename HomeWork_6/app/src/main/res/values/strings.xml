@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeWork_6</string>
+    <string name="Feelslike">Feels like: %s%s, %s </string>
+    <string name="minmaxtemp">max:%s%s min: %s%s </string>
+    <string name="pressure">Pressure: %s %s </string>
+    <string name="humidity">Humidity: %s%s </string>
+    <string name="visibility">Visibility: %s km </string>
+    <string name="windspeed">Wind speed: %s m/s </string>
+    <string name="gust">Gust: %s m/s </string>
+    <string name="wind_direction">Direction: %s%s </string>
+
+</resources>
